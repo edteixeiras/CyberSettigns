@@ -1,0 +1,19 @@
+h1{
+    color: cornflowerblue;
+}
+
+p{
+    text-align: left;
+    padding: 5px;
+    font-family: Arial, sans-serif;
+}
+
+.footer{
+    text-align: left;
+}
+
+h2{
+    color: cornflowerblue;
+    padding-left: 21%;
+    padding-right: 21%;
+}

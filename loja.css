@@ -1,0 +1,63 @@
+.quatro-imagens-servidores {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .imagem-texto {
+    width: 22%;
+    margin-bottom: 2%;
+  }
+  
+  .imagem-texto img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .imagem-texto p {
+    margin-top: 0.5em;
+    text-align: center;
+  }
+
+  .quatro-imagens-workstation {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .imagem-texto {
+    width: 22%;
+    margin-bottom: 2%;
+  }
+  
+  .imagem-texto img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .imagem-texto p {
+    margin-top: 0.5em;
+    text-align: center;
+  }
+
+  h2{
+    color:cornflowerblue;
+  }
+
+  .quatro-imagens-all-in-one {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .imagem-texto {
+    width: 22%;
+    margin-bottom: 2%;
+  }
+  
+  .imagem-texto img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .imagem-texto p {
+    margin-top: 0.5em;
+    text-align: center;
+  }

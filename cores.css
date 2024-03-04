@@ -1,0 +1,126 @@
+.quatro-imagens {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .imagem-texto {
+    width: 22%;
+    margin-bottom: 2%;
+  }
+  
+  .imagem-texto img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .imagem-texto p {
+    margin-top: 0.5em;
+    text-align: center;
+  }
+
+h1{
+  color:cornflowerblue;
+  text-align: center;
+}
+
+.quatro-imagens-de-equipa {
+  display: flex;
+  justify-content:space;
+ padding-left: 12%;
+ padding-right: 12%;
+}
+
+.imagem1{
+  color: cornflowerblue;
+  background-color: black;
+  text-align: center;
+}
+.imagem2{
+  text-align: center;
+  color: cornflowerblue;
+  background-color: black;
+}
+
+.imagem3{
+  text-align: center;
+  color: cornflowerblue;
+  background-color: black;
+}
+
+.imagem4{
+  text-align: center;
+  color: cornflowerblue;
+  background-color: black;
+}
+
+nav{
+  color: black;
+  text-decoration: none;
+
+}
+
+.duas-imagens{
+  display: flex;
+  justify-content: center;
+}
+
+h2{
+  color:cornflowerblue;
+  text-align: center;
+}
+
+h4{
+  color: black;
+  text-align: center;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  max-width: auto;
+  margin:  auto;
+  padding: 20px;
+  background-color: #f3f3f3;
+}
+
+form {
+  display: grid;
+  grid-gap: 10px;
+}
+
+label {
+  display: block;
+  font-size: 14px;
+  font-weight: bold;
+  color: #333;
+  text-align: left;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+textarea,
+select {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  font-size: 14px;
+  line-height: 1.5;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+input[type="submit"] {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: #000000;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #242424;
+}
